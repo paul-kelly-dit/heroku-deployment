@@ -29,3 +29,6 @@ Heroku hosts *apps* on the internet, not static websites. To get it to run your 
 6. Run `git push heroku master`
 
 Done! Visit your deployed single-page website, hosted by Heroku (as a fake PHP app ☺).
+
+Now in my case, navigate to 
+https://heroku-test-website.herokuapp.com/
